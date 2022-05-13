@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ares Fighting Team</title>
-    <link>https://flaviusdolca.github.io/ares-team/tags/</link>
+    <link>https://flaviusdolca.github.io/ares-team-public/tags/</link>
     <description>Recent content in Tags on Ares Fighting Team</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language><atom:link href="https://flaviusdolca.github.io/ares-team/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-it</language><atom:link href="https://flaviusdolca.github.io/ares-team-public/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
